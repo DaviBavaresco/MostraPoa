@@ -20,7 +20,7 @@
     /* ==========================================================================
        countdown timer
        ========================================================================== */
-     jQuery('#clock').countdown('2019/10/30',function(event){
+     jQuery('#clock').countdown('2023/10/24',function(event){
       var $this=jQuery(this).html(event.strftime(''
       +'<div class="time-entry days"><span>%-D</span> Dias</div> '
       +'<div class="time-entry hours"><span>%H</span> Horas</div> '
